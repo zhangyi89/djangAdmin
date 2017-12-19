@@ -1,0 +1,5 @@
+##Django 内置admin
+
+8. admin界面默认是显示英语，如果要显示你需要的语言：
+	在MIDDLEWARE_CLASSES属性中添加'django.middleware.locale.LocaleMiddleware'，并确保它
+	排列在SessionMiddleware后面。重新刷新admin页面

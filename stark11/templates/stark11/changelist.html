@@ -1,3 +1,4 @@
+{% load mytag %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,18 +7,41 @@
     <link rel="stylesheet" href="/static/stark11/bootstrap-3.3.7/css/bootstrap.css">
 </head>
 <body>
-<h1>显示列表</h1>
+
 <div class="container">
+    {% changelist request %}
+    <h3 style="margin-bottom: 20px">显示列表</h3>
     <table class="table table-bordered">
+    {% if cl.show_filter_btn %}
+       <div class="input-group col-md-4 pull-right" style="margin-bottom: 10px">
+           <form method="get">
+          <input type="text" class="form-control" name="{{ cl.query_param_key }}" value="{{ cl.filter_btn_val }}" placeholder="Search for...">
+          <span class="input-group-btn">
+            <button class="btn btn-success" type="submit">搜索</button>
+          </span>
+               </form>
+        </div>
+    {% endif %}
+    {% if cl.show_action_btn %}
+           <div class="input-group col-md-4 pull-right" style="margin-bottom: 10px; margin-right: 10px">
+          <input type="text" class="form-control" placeholder="批量操作">
+          <span class="input-group-btn">
+            <button class="btn btn-success" type="button">批量操作</button>
+          </span>
+        </div>
+    {% endif %}
+        {% if cl.show_add_btn %}
+            <a class="btn btn-primary" style="margin-bottom: 10px" href="{{ add_url }}">添加</a>
+        {% endif %}
         <thead>
         <tr>
-            {% for foo in head_list %}
+            {% for foo in cl.head_list %}
                 <th>{{ foo }}</th>
             {% endfor %}
         </tr>
         </thead>
         <tbody>
-        {% for foo in data_list %}
+        {% for foo in cl.body_list %}
             <tr>
                 {% for col in foo %}
                     <td>{{ col }}</td>
@@ -26,6 +50,11 @@
         {% endfor %}
         </tbody>
     </table>
+    <div aria-label="Page navigation" class="pull-right">
+        <ul class="pagination">
+            {{ cl.page_obj.page_html|safe }}
+        </ul>
+    </div>
 </div>
 </body>
 </html>

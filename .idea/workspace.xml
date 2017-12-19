@@ -1,7 +1,747 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="686c8b18-6091-4653-8a86-06e4f1a67e1f" name="Default" comment="" />
+    <list default="true" id="686c8b18-6091-4653-8a86-06e4f1a67e1f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/font/kumo.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/asp.net/bin/LitJSON.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/asp/JSON_2.0.4.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/_static/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/_static/firebug_upload_json.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/jsp/lib/commons-fileupload-1.2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/jsp/lib/commons-io-1.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/jsp/lib/json_simple-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/firebug.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/firebug128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/firebug16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/firebug24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/firebug24_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/firebug32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/firebug48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/buttonBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/buttonBgHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/detach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/detachHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/disable.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/disable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/disableHover.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/disableHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/downActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/downHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/errorIcon-sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/errorIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/errorIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/firebug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/group.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/infoIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/infoIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/loading_16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/min.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/minHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/offHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/pixel_transparent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/search.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/shadow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/shadow2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/shadowAlpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabHoverLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabHoverMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabHoverRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabMenuCheckbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabMenuPin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabMenuRadio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabMenuTarget.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabMenuTargetHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tabRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/textEditorBorders.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/textEditorBorders.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/textEditorCorners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/textEditorCorners.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/titlebarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/toolbarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tree_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/tree_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/upActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/upHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/warningIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/warningIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/firebug.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/firebug128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/firebug16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/firebug24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/firebug24_disabled.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/firebug32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/firebug48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/buttonBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/buttonBgHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/detach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/detachHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/disable.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/disable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/disableHover.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/disableHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/downActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/downHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/errorIcon-sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/errorIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/errorIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/firebug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/group.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/infoIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/infoIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/loading_16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/min.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/minHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/offHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/pixel_transparent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/search.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/shadow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/shadow2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/shadowAlpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/tabHoverLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/tabHoverMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/tabHoverRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/tabLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/tabMenuCheckbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/tabMenuPin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/tabMenuRadio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/tabMenuTarget.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/tabMenuTargetHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/tabMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/tabRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/textEditorBorders.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/textEditorBorders.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/textEditorCorners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/textEditorCorners.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/titlebarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/toolbarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/tree_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/tree_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/upActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/upHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/warningIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/warningIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/buttonBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/buttonBgHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/detach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/detachHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/disable.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/disable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/disableHover.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/disableHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/downActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/downHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/errorIcon-sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/errorIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/errorIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/firebug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/group.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/infoIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/infoIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/loading_16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/min.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/minHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/offHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/pixel_transparent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/search.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/shadow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/shadow2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/shadowAlpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/tabHoverLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/tabHoverMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/tabHoverRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/tabLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/tabMenuCheckbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/tabMenuPin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/tabMenuRadio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/tabMenuTarget.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/tabMenuTargetHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/tabMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/tabRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/textEditorBorders.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/textEditorBorders.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/textEditorCorners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/textEditorCorners.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/titlebarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/toolbarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/tree_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/tree_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/twistyClosed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/twistyOpen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/upActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/upHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/warningIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/warningIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/buttonBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/buttonBgHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/closeHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/detach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/detachHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/disable.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/disable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/disableHover.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/disableHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/downActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/downHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/errorIcon-sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/errorIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/errorIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/firebug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/group.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/infoIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/infoIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/loading_16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/min.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/minHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/offHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/pixel_transparent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/search.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/shadow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/shadow2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/shadowAlpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/tabHoverLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/tabHoverMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/tabHoverRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/tabLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/tabMenuCheckbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/tabMenuPin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/tabMenuRadio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/tabMenuTarget.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/tabMenuTargetHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/tabMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/tabRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/textEditorBorders.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/textEditorBorders.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/textEditorCorners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/textEditorCorners.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/titlebarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/toolbarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/tree_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/tree_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/twistyClosed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/twistyOpen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/upActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/upHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/warningIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/warningIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/buttonBg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/buttonBgHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/detach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/detachHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/disable.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/disable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/disableHover.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/disableHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/downActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/downHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/errorIcon-sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/errorIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/errorIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/firebug.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/group.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/infoIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/infoIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/loading_16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/min.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/minHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/offHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/pixel_transparent.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/search.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/shadow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/shadow2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/shadowAlpha.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/tabHoverLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/tabHoverMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/tabHoverRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/tabLeft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/tabMenuCheckbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/tabMenuPin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/tabMenuRadio.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/tabMenuTarget.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/tabMenuTargetHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/tabMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/tabRight.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/textEditorBorders.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/textEditorBorders.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/textEditorCorners.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/textEditorCorners.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/titlebarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/toolbarMid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/tree_close.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/tree_open.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/upActive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/upHover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/warningIcon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/warningIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/100.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/101.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/102.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/103.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/104.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/105.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/106.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/107.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/108.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/109.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/110.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/111.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/112.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/113.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/114.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/115.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/116.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/117.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/118.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/119.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/120.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/121.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/122.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/123.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/124.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/125.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/126.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/127.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/128.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/129.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/13.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/130.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/131.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/132.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/133.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/134.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/14.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/15.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/17.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/18.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/19.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/20.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/21.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/22.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/23.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/25.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/26.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/27.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/28.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/29.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/30.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/31.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/33.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/34.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/35.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/36.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/37.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/38.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/39.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/40.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/41.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/42.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/43.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/44.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/45.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/46.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/47.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/48.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/49.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/51.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/52.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/53.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/54.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/55.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/56.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/57.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/58.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/59.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/60.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/61.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/62.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/63.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/65.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/66.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/67.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/68.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/69.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/70.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/71.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/72.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/73.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/74.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/75.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/76.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/77.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/78.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/79.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/80.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/81.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/82.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/83.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/84.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/85.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/86.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/87.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/88.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/89.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/90.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/91.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/92.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/93.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/94.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/95.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/96.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/97.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/98.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/99.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/images/static.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/filemanager/images/file-16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/filemanager/images/file-64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/filemanager/images/folder-16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/filemanager/images/folder-64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/filemanager/images/go-up.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/image/images/align_left.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/image/images/align_right.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/image/images/align_top.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/image/images/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/multiimage/images/image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/multiimage/images/select-files-en.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/multiimage/images/select-files-zh-CN.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/multiimage/images/swfupload.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/data/logo_180_30.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/themes/common/anchor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/themes/common/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/themes/common/flash.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/themes/common/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/themes/common/media.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/themes/common/rm.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/themes/default/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/themes/default/default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/themes/qq/editor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app03/stark11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stark11/static/stark11/css/stark11-form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stark11/static/stark11/js/jquery-3.2.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stark11/templates/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stark11/templates/stark11/add_view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stark11/templates/stark11/change_view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stark11/templates/stark11/form.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stark11/templatetags/mytag.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/bootstrap-3.3.7/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/bootstrap-3.3.7/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/bootstrap-3.3.7/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/bootstrap-3.3.7/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/bootstrap-3.3.7/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/bootstrap-3.3.7/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/bootstrap-3.3.7/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/bootstrap-3.3.7/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/bootstrap-3.3.7/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/bootstrap-3.3.7/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/bootstrap-3.3.7/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/css/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/css/stark11-form.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/font/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/img/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/js/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/js/jquery-3.2.1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/js/jquery-3.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/js/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/asp.net/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/asp.net/demo.aspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/asp.net/file_manager_json.ashx.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/asp.net/upload_json.ashx.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/asp/UpLoad_Class.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/asp/demo.asp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/asp/file_manager_json.asp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/asp/upload_json.asp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/_templates/classy/layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/_templates/classy/static/classy.css_t" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/_templates/classy/theme.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/ajax.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/changelog.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/classyext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/cmd.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/colorpicker.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/conf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/core.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/dialog.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/editor.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/event.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/make.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/menu.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/node.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/option.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/plugin.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/qna.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/range.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/selector.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/tabs.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/theme.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/upgrade.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/upload.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/uploadbutton.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/usage.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/docs/widget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/jsp/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/jsp/demo.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/jsp/file_manager_json.jsp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/jsp/upload_json.jsp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/kindeditor-all-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/kindeditor-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lang/zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lang/zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/build.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/background.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/contentScript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/firebug-lite-beta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/googleChrome.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/firebug-1.3a2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/firebug.IE6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/firebug.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/firebug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension-beta/skin/xp/roundCorner.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/background.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/contentScript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/firebug-lite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/googleChrome.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/firebug-1.3a2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/firebug.IE6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/firebug.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/firebug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/chrome-extension/skin/xp/roundCorner.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/compress.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/firebug-lite-beta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/firebug-lite-debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/build/firebug-lite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/plugin/proxy/proxy.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/firebug.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/firebug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/classic/roundCorner.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/firebug.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/firebug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/light/roundCorner.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/firebug-1.3a2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/firebug.IE6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/firebug.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/firebug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/firebug-lite/skin/xp/roundCorner.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/qunit/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/lib/qunit/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/php/JSON.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/php/demo.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/php/file_manager_json.php.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/php/upload_json.php.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/anchor/anchor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/autoheight/autoheight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/baidumap/baidumap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/baidumap/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/baidumap/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/clearhtml/clearhtml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/code/code.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/code/prettify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/code/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/emoticons/emoticons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/filemanager/filemanager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/fixtoolbar/fixtoolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/flash/flash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/image/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/insertfile/insertfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/lineheight/lineheight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/link/link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/map/map.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/map/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/media/media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/multiimage/multiimage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/pagebreak/pagebreak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/plainpaste/plainpaste.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/preview/preview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/quickformat/quickformat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/table/table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/template/html/1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/template/html/2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/template/html/3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/template/template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/plugins/wordpaste/wordpaste.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/cmd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/colorpicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/edit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/footer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/range.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/uploadbutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/src/widget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/cmd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/cmd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/core.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/dialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/edit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/editor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/editor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/hidden.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/html.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/leak.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/navi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/node.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/node.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/quirkmode.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/range.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/range.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/remote.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/selector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/toolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/total.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/KindEditorDriver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/all-chrome.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/all-firefox.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/all-ie.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/all.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/php-webdriver/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/php-webdriver/WebDriver.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/php-webdriver/WebDriverBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/php-webdriver/WebDriverContainer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/php-webdriver/WebDriverElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/php-webdriver/WebDriverEnvironment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/php-webdriver/WebDriverExceptions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/php-webdriver/WebDriverSession.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/php-webdriver/WebDriverSimpleItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/php-webdriver/__init__.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/test-default.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/test-dialog.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/webdriver/test-unittest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/test/widget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/themes/default/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/themes/qq/qq.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/stark11/kindeditor-master/themes/simple/simple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/edit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/hosts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/pagination-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/users.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/pager.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources/f2c15a5d-a886-459a-a62f-d8999c11a4f9.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CRM知识点" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app01/migrations/0001_initial.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stark11/templatetags/myfilter.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/f2c15a5d-a886-459a-a62f-d8999c11a4f9/_metadata_/metadata" afterPath="$PROJECT_DIR$/.idea/dataSources/f2c15a5d-a886-459a-a62f-d8999c11a4f9/_metadata_/metadata" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/f2c15a5d-a886-459a-a62f-d8999c11a4f9/_metadata_/metadata.keystream" afterPath="$PROJECT_DIR$/.idea/dataSources/f2c15a5d-a886-459a-a62f-d8999c11a4f9/_metadata_/metadata.keystream" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/f2c15a5d-a886-459a-a62f-d8999c11a4f9/_metadata_/metadata.keystream.len" afterPath="$PROJECT_DIR$/.idea/dataSources/f2c15a5d-a886-459a-a62f-d8999c11a4f9/_metadata_/metadata.keystream.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/f2c15a5d-a886-459a-a62f-d8999c11a4f9/_metadata_/metadata.len" afterPath="$PROJECT_DIR$/.idea/dataSources/f2c15a5d-a886-459a-a62f-d8999c11a4f9/_metadata_/metadata.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/f2c15a5d-a886-459a-a62f-d8999c11a4f9/_metadata_/metadata_i" afterPath="$PROJECT_DIR$/.idea/dataSources/f2c15a5d-a886-459a-a62f-d8999c11a4f9/_metadata_/metadata_i" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/f2c15a5d-a886-459a-a62f-d8999c11a4f9/_metadata_/metadata_i.len" afterPath="$PROJECT_DIR$/.idea/dataSources/f2c15a5d-a886-459a-a62f-d8999c11a4f9/_metadata_/metadata_i.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CRM/settings.py" afterPath="$PROJECT_DIR$/CRM/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CRM/urls.py" afterPath="$PROJECT_DIR$/CRM/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app01/models.py" afterPath="$PROJECT_DIR$/app01/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app01/stark11.py" afterPath="$PROJECT_DIR$/app01/stark11.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app01/views.py" afterPath="$PROJECT_DIR$/app01/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stark/service/v1.py" afterPath="$PROJECT_DIR$/stark/service/v1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stark11/service/v1.py" afterPath="$PROJECT_DIR$/stark11/service/v1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stark11/static/stark11/js/jquery-3.2.1.min.js" afterPath="$PROJECT_DIR$/stark11/static/stark11/js/jquery-3.2.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stark11/templates/stark11/changelist.html" afterPath="$PROJECT_DIR$/stark11/templates/stark11/changelist.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,69 +770,78 @@
     </expand>
     <select />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sites.py" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/admin/sites.py">
+      <file leaf-file-name="pager.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../classDocument/day105课上所有/s6day103/utils/pager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="99" column="30" lean-forward="false" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="270">
+              <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pagination-demo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/pagination-demo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="stark11.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app01/stark11.py">
+        <entry file="file://$PROJECT_DIR$/app03/stark11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            <state relative-caret-position="288">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding>
-                <element signature="e#0#45#0" expanded="true" />
+                <element signature="e#0#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stark.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../classDocument/s6day103课上所有/app01/stark.py">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app03/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="70" lean-forward="true" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
-              <folding />
+            <state relative-caret-position="534">
+              <caret line="69" column="1" lean-forward="false" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#59#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="v1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../classDocument/s6day103课上所有/stark/service/v1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="43" column="16" lean-forward="false" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stark.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app01/stark.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="v1.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="v1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stark11/service/v1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="-470">
+              <caret line="223" column="17" lean-forward="true" selection-start-line="223" selection-start-column="17" selection-end-line="223" selection-end-column="17" />
               <folding>
-                <element signature="e#0#43#0" expanded="true" />
+                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#3269#3622#0" expanded="false" />
+                <element signature="e#3701#3849#0" expanded="false" />
+                <element signature="e#3909#4672#0" expanded="false" />
+                <element signature="e#5068#5248#0" expanded="false" />
+                <element signature="e#5293#5474#0" expanded="false" />
+                <element signature="e#5511#5670#0" expanded="false" />
+                <element signature="e#5715#5896#0" expanded="false" />
+                <element signature="e#5971#6093#0" expanded="false" />
+                <element signature="e#6150#6990#0" expanded="false" />
+                <element signature="e#7049#7187#0" expanded="false" />
+                <element signature="e#8002#8469#0" expanded="false" />
+                <element signature="e#8551#9018#1" expanded="false" />
+                <element signature="e#9251#10616#1" expanded="false" />
+                <element signature="e#11076#11531#0" expanded="false" />
+                <element signature="e#11599#11692#0" expanded="false" />
+                <element signature="e#12598#14002#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -101,28 +850,35 @@
       <file leaf-file-name="changelist.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stark11/templates/stark11/changelist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-              <folding />
+            <state relative-caret-position="379">
+              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#h3#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myfilter.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stark11/templatetags/myfilter.py">
+      <file leaf-file-name="pager.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/pager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="885">
+              <caret line="120" column="17" lean-forward="true" selection-start-line="120" selection-start-column="17" selection-end-line="120" selection-end-column="17" />
+              <folding>
+                <element signature="e#1539#2760#1" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="options.py" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/admin/options.py">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app03/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-155">
-              <caret line="527" column="35" lean-forward="false" selection-start-line="527" selection-start-column="35" selection-end-line="527" selection-end-column="35" />
+            <state relative-caret-position="486">
+              <caret line="27" column="11" lean-forward="false" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -133,10 +889,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
+        <option value="CSS File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>method</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -149,15 +914,36 @@
         <option value="$PROJECT_DIR$/stark/templates/stark/changelist.html" />
         <option value="$PROJECT_DIR$/app01/stark.py" />
         <option value="$PROJECT_DIR$/stark/service/v1.py" />
-        <option value="$PROJECT_DIR$/CRM/settings.py" />
         <option value="$PROJECT_DIR$/stark11/apps.py" />
         <option value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/admin/sites.py" />
-        <option value="$PROJECT_DIR$/CRM/urls.py" />
+        <option value="$PROJECT_DIR$/stark11/templatetags/myfilter.py" />
         <option value="$PROJECT_DIR$/app01/models.py" />
         <option value="$PROJECT_DIR$/app01/stark11.py" />
-        <option value="$PROJECT_DIR$/stark11/service/v1.py" />
+        <option value="$PROJECT_DIR$/stark11/static/stark11/css/stark11-form.css" />
+        <option value="$PROJECT_DIR$/stark11/templates/stark11/add_view.html" />
+        <option value="$PROJECT_DIR$/stark11/templates/stark11/form.html" />
+        <option value="$PROJECT_DIR$/stark11/templates/stark11/change_view.html" />
+        <option value="$PROJECT_DIR$/stark11/templates/changelist.html" />
+        <option value="$PROJECT_DIR$/stark11/templates/list.html" />
+        <option value="$PROJECT_DIR$/stark11/templatetags/mytag.py" />
+        <option value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/core/servers/basehttp.py" />
+        <option value="$PROJECT_DIR$/stark11/static/stark11/js/jquery-3.2.1.min.js" />
+        <option value="$PROJECT_DIR$/stark11/static/stark11/js/jquery-3.2.1.js" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/CRM/settings.py" />
+        <option value="$PROJECT_DIR$/templates/hosts.html" />
+        <option value="$PROJECT_DIR$/templates/users.html" />
+        <option value="$PROJECT_DIR$/app01/views.py" />
+        <option value="$PROJECT_DIR$/app03/models.py" />
+        <option value="$PROJECT_DIR$/CRM/urls.py" />
+        <option value="$PROJECT_DIR$/templates/edit.html" />
+        <option value="$PROJECT_DIR$/templates/pagination-demo.html" />
+        <option value="$PROJECT_DIR$/app03/views.py" />
+        <option value="$PROJECT_DIR$/../classDocument/day105课上所有/s6day103/utils/pager.py" />
         <option value="$PROJECT_DIR$/stark11/templates/stark11/changelist.html" />
-        <option value="$PROJECT_DIR$/stark11/templatetags/myfilter.py" />
+        <option value="$PROJECT_DIR$/utils/pager.py" />
+        <option value="$PROJECT_DIR$/app03/stark11.py" />
+        <option value="$PROJECT_DIR$/stark11/service/v1.py" />
       </list>
     </option>
   </component>
@@ -167,11 +953,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="714" />
-    <option name="y" value="24" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="66" />
+    <option name="y" value="28" />
     <option name="width" value="1440" />
-    <option name="height" value="815" />
+    <option name="height" value="817" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -187,10 +973,11 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
-      <showMembers />
+      <showMembers ProjectPane="true" />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
@@ -202,7 +989,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,43 +1000,41 @@
             <path>
               <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
               <item name="CRM" type="462c0819:PsiDirectoryNode" />
-              <item name="CRM" type="462c0819:PsiDirectoryNode" />
+              <item name="app01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
               <item name="CRM" type="462c0819:PsiDirectoryNode" />
-              <item name="stark" type="462c0819:PsiDirectoryNode" />
+              <item name="app03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
               <item name="CRM" type="462c0819:PsiDirectoryNode" />
-              <item name="stark11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CRM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CRM" type="462c0819:PsiDirectoryNode" />
-              <item name="stark11" type="462c0819:PsiDirectoryNode" />
-              <item name="templatetags" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/utils" />
+      <recent name="$PROJECT_DIR$/stark11/static/stark11/js" />
+      <recent name="$PROJECT_DIR$/stark11" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/stark11/static/stark11" />
       <recent name="$PROJECT_DIR$/stark11/static/js" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/stark11" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -305,28 +1090,37 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="714" y="24" width="1440" height="815" extended-state="0" />
+    <frame x="6" y="28" width="1440" height="817" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16944444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16703458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34210527" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15510719" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13539368" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2389937" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283208" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -337,419 +1131,429 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CRM/settings.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/apps/registry.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
-          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        <state relative-caret-position="7650">
+          <caret line="425" column="0" lean-forward="true" selection-start-line="425" selection-start-column="0" selection-end-line="425" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/__main__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/djangoadmin/admin.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/core/handlers/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/admin/__init__.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/staticfiles/handlers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="540">
+          <caret line="35" column="8" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/utils/module_loading.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/core/servers/basehttp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="45" column="15" lean-forward="false" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
-          <folding />
+        <state relative-caret-position="2054">
+          <caret line="173" column="19" lean-forward="false" selection-start-line="173" selection-start-column="19" selection-end-line="173" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/admin/sites.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/conf/project_template/project_name/settings.py-tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="116" column="51" lean-forward="true" selection-start-line="116" selection-start-column="51" selection-end-line="116" selection-end-column="51" />
-          <folding />
+        <state relative-caret-position="-917">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/admin/options.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socketserver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="96" column="6" lean-forward="false" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="-6897">
+          <caret line="390" column="6" lean-forward="false" selection-start-line="390" selection-start-column="6" selection-end-line="390" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../classDocument/day102课上所有/s6day102/app01/admin.py.bak">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/http/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="129" column="34" lean-forward="false" selection-start-line="129" selection-start-column="34" selection-end-line="129" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stark11/static/stark11/js/jquery-3.2.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51476">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stark11/static/stark11/js/jquery-3.2.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-52">
+          <caret line="171" column="5" lean-forward="false" selection-start-line="171" selection-start-column="5" selection-end-line="171" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/wsgiref/simple_server.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="666">
-          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <caret line="41" column="21" lean-forward="false" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/core/handlers/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="76" column="26" lean-forward="false" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CRM/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-          <folding>
-            <element signature="e#637#678#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CRM知识点">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/core/management/commands/runserver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+          <caret line="102" column="8" lean-forward="false" selection-start-line="102" selection-start-column="8" selection-end-line="102" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/djangoadmin/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/admin/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/admin/views/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5932">
-          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../classDocument/day102课上所有/s6day102/app01/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djangoadmin/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../classDocument/day102课上所有/s6day102/app01/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/admin/decorators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/utils/functional.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6303">
-          <caret line="47" column="4" lean-forward="false" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/utils/translation/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2415">
-          <caret line="104" column="18" lean-forward="true" selection-start-line="104" selection-start-column="18" selection-end-line="104" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/db/models/options.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="117" column="13" lean-forward="false" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/db/models/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-26571">
-          <caret line="314" column="37" lean-forward="false" selection-start-line="314" selection-start-column="37" selection-end-line="314" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CRM知识点">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/conf/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+          <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/djangoadmin/models.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/staticfiles/management/commands/runserver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/conf/urls/__init__.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/core/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-437">
-          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-          <folding />
+        <state relative-caret-position="234">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../classDocument/day102课上所有/s6day102/app01/admin.py.bak">
+    <entry file="file://$PROJECT_DIR$/utils.py" />
+    <entry file="file://$PROJECT_DIR$/templates/users.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="37" column="24" lean-forward="false" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
-          <folding />
+        <state relative-caret-position="270">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/utils/module_loading.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="45" column="15" lean-forward="false" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app01/apps.py">
+    <entry file="file://$PROJECT_DIR$/static/stark11/js/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stark/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#33#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/djangoadmin/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-914">
-          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/urls/resolvers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="413" column="0" lean-forward="false" selection-start-line="413" selection-start-column="0" selection-end-line="413" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stark/templates/stark/changelist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app01/admin.py">
+    <entry file="file://$PROJECT_DIR$/app01/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/c01ec6c3/f2c15a5d-a886-459a-a62f-d8999c11a4f9/main.app03_books" />
+    <entry file="file://$PROJECT_DIR$/CRM/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="43" column="18" lean-forward="true" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/db/models/fields/related.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="791" column="8" lean-forward="false" selection-start-line="791" selection-start-column="8" selection-end-line="791" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app03/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/c01ec6c3/53fb21a6-1e0e-4417-a2a6-ffa2e439d021/main.app01_usertype" />
+    <entry file="das://table:/c01ec6c3/53fb21a6-1e0e-4417-a2a6-ffa2e439d021/main.app01_userinfo" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/db/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/db/models/fields/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="1769" column="6" lean-forward="false" selection-start-line="1769" selection-start-column="6" selection-end-line="1769" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stark11/apps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#33#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CRM/settings.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/db/models/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="40" column="33" lean-forward="false" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        <state relative-caret-position="158">
+          <caret line="164" column="26" lean-forward="false" selection-start-line="164" selection-start-column="26" selection-end-line="164" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/admin/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="25" column="47" lean-forward="true" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
-          <folding />
+    <entry file="das://table:/c01ec6c3/0eddc282-4bd4-442b-93d9-e8b7c8b51d0f/main.app03_books">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CRM/urls.py">
+    <entry file="file://$PROJECT_DIR$/app01/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="345">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <element signature="e#637#678#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/c01ec6c3/f2c15a5d-a886-459a-a62f-d8999c11a4f9/main.app01_usertype">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://table:/c01ec6c3/f2c15a5d-a886-459a-a62f-d8999c11a4f9/main.app01_userinfo">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stark11/static/stark11/js/__init__.py">
+    <entry file="file://$PROJECT_DIR$/../classDocument/day105课上所有/s6day103/utils/fuck_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stark/service/v1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/admin/sites.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="99" column="30" lean-forward="false" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../classDocument/s6day103课上所有/stark/service/v1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="43" column="16" lean-forward="false" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../classDocument/s6day103课上所有/app01/stark.py">
+    <entry file="file://$PROJECT_DIR$/templates/edit.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="70" lean-forward="true" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
+          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../classDocument/day105课上所有/s6day103/app03/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="9" column="92" lean-forward="true" selection-start-line="9" selection-start-column="92" selection-end-line="9" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/hosts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app01/stark11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state relative-caret-position="756">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pip/download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="269" column="8" lean-forward="false" selection-start-line="269" selection-start-column="8" selection-end-line="269" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/http/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2458">
+          <caret line="54" column="13" lean-forward="false" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
           <folding>
-            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#1944#2194#0" expanded="false" />
+            <element signature="e#2233#3005#0" expanded="false" />
+            <element signature="e#3039#3834#0" expanded="false" />
+            <element signature="e#3868#4145#0" expanded="false" />
+            <element signature="e#4210#4621#0" expanded="false" />
+            <element signature="e#4713#5452#0" expanded="false" />
+            <element signature="e#5489#5813#0" expanded="false" />
+            <element signature="e#5872#7220#0" expanded="false" />
+            <element signature="e#7257#7388#0" expanded="false" />
+            <element signature="e#7434#7854#0" expanded="false" />
+            <element signature="e#7889#7918#0" expanded="false" />
+            <element signature="e#7951#8016#0" expanded="false" />
+            <element signature="e#8064#8085#0" expanded="false" />
+            <element signature="e#8145#8517#0" expanded="false" />
+            <element signature="e#8563#8708#0" expanded="false" />
+            <element signature="e#8763#8955#0" expanded="false" />
+            <element signature="e#9041#9224#0" expanded="false" />
+            <element signature="e#9284#9647#0" expanded="false" />
+            <element signature="e#9691#10487#0" expanded="false" />
+            <element signature="e#10535#10636#0" expanded="false" />
+            <element signature="e#10682#12180#0" expanded="false" />
+            <element signature="e#12211#12347#0" expanded="false" />
+            <element signature="e#12728#12943#0" expanded="false" />
+            <element signature="e#12994#13213#0" expanded="false" />
+            <element signature="e#13249#13362#0" expanded="false" />
+            <element signature="e#13424#13447#0" expanded="false" />
+            <element signature="e#19671#20016#0" expanded="false" />
+            <element signature="e#20052#20628#0" expanded="false" />
+            <element signature="e#20675#21382#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../classDocument/s6day103课上所有/stark/templates/stark/changelist.html">
+    <entry file="file://$PROJECT_DIR$/../classDocument/day106课上所有/s6day103 - 1 - 整合分页和编辑/templates/hosts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        <state relative-caret-position="50">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/contrib/admin/options.py">
+    <entry file="file://$PROJECT_DIR$/app03/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-155">
-          <caret line="527" column="35" lean-forward="false" selection-start-line="527" selection-start-column="35" selection-end-line="527" selection-end-column="35" />
+        <state relative-caret-position="486">
+          <caret line="27" column="11" lean-forward="false" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stark11/service/v1.py">
+    <entry file="file://$PROJECT_DIR$/utils/pager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="885">
+          <caret line="120" column="17" lean-forward="true" selection-start-line="120" selection-start-column="17" selection-end-line="120" selection-end-column="17" />
           <folding>
-            <element signature="e#0#43#0" expanded="true" />
+            <element signature="e#1539#2760#1" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app01/models.py">
+    <entry file="file://$PROJECT_DIR$/../classDocument/day105课上所有/s6day103/utils/pager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app01/stark.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="270">
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stark11/templates/stark11/changelist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        <state relative-caret-position="379">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app03/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="69" column="1" lean-forward="false" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRM/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stark11/templatetags/myfilter.py">
+    <entry file="file://$PROJECT_DIR$/templates/pagination-demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="338">
+          <caret line="131" column="0" lean-forward="false" selection-start-line="131" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app03/stark11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stark11/service/v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-470">
+          <caret line="223" column="17" lean-forward="true" selection-start-line="223" selection-start-column="17" selection-end-line="223" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+            <element signature="e#3269#3622#0" expanded="false" />
+            <element signature="e#3701#3849#0" expanded="false" />
+            <element signature="e#3909#4672#0" expanded="false" />
+            <element signature="e#5068#5248#0" expanded="false" />
+            <element signature="e#5293#5474#0" expanded="false" />
+            <element signature="e#5511#5670#0" expanded="false" />
+            <element signature="e#5715#5896#0" expanded="false" />
+            <element signature="e#5971#6093#0" expanded="false" />
+            <element signature="e#6150#6990#0" expanded="false" />
+            <element signature="e#7049#7187#0" expanded="false" />
+            <element signature="e#8002#8469#0" expanded="false" />
+            <element signature="e#8551#9018#1" expanded="false" />
+            <element signature="e#9251#10616#1" expanded="false" />
+            <element signature="e#11076#11531#0" expanded="false" />
+            <element signature="e#11599#11692#0" expanded="false" />
+            <element signature="e#12598#14002#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

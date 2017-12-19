@@ -17,10 +17,22 @@ from django.conf.urls import url, include
 from django.contrib import admin
 from stark.service import v1
 from stark11.service import v1
+from app01 import views as view1
+from app03 import views as view2
 
 urlpatterns = [
-    # url(r'^admin/', admin.site.urls),
+    url(r'^admin/', admin.site.urls),
     # url(r'^stark/', v1.site.urls),
-    # 通过v1.site是实例化一个对象，并调用ruls方法
-    url(r'^stark11/', v1.site.urls)
+    # 通过v1.site是实例化一个对象，并调用urls方法
+    url(r'^stark11/', v1.site.urls),
+
+    # 分页练习
+    url(r'^hosts/$', view1.hosts),
+    url(r'^users/$', view1.users),
+
+
+    # 分页demo
+    url(r'^pagination-demo/$', view2.pagination_demo),
+
+    url(r'^app03/edit/(\d+)$', view2.edit)
 ]

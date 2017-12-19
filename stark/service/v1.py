@@ -38,7 +38,7 @@ class StartConfig(object):
                     val = field_name(self, row)
                 temp.append(val)
             new_data_list.append(temp)
-        return render(request, 'stark/changelist.html', {"data_list": new_data_list})
+        return render(request, 'stark/list.html', {"data_list": new_data_list})
 
     def add_view(self, request, *args, **kwargs):
         return HttpResponse("添加")

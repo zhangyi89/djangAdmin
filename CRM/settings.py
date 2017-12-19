@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     # 'stark.apps.StarkConfig',
     'stark11.apps.Stark11Config',
     'app01.apps.App01Config',
+    'app03.apps.App03Config',
     'djangoadmin',
 ]
 
