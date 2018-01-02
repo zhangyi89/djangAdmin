@@ -13,7 +13,13 @@ class BooksConfig(v1.ModelConfig):
     list_display = ('id', 'title', 'author', 'country', 'category', 'price')
     filter_display = ('title__contains', 'author__contains','country__contains', 'category__subtypes__contains', )
     action_display = ()
-
+    # comb_filter = ('title', 'author', 'country', 'category')
+    comb_filter = [
+        # v1.FilterOption('title', ),
+        # v1.FilterOption('author', ),
+        # v1.FilterOption('country', ),
+        v1.FilterOption('category', )
+    ]
     # 是否显示添加按钮
     show_add_btn = True
 

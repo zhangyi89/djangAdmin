@@ -1,0 +1,35 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="/static/stark11/bootstrap-3.3.7/css/bootstrap.css">
+    <style>
+        textarea {
+            width: 300px;
+            height: 60px;
+        }
+    </style>
+</head>
+<body>
+<div class="container" style="margin-top: 50px">
+    <form action="" method="post" novalidate>
+        {% csrf_token %}
+        <table class="table table-bordered">
+            {% for foo in data %}
+                <tr>
+                    <td>{{ foo.obj.course_record }}</td>
+                    <td>{{ foo.obj.student }}</td>
+                    <td>{{ foo.obj.get_record_display }}</td>
+                    {% for field in foo.form %}
+                        <td>{{ field }}</td>
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+        </table>
+        <input class="pull-right btn btn-primary" type="submit" value="提交">
+    </form>
+</div>
+</body>
+</html>

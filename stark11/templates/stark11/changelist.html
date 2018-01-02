@@ -5,51 +5,105 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <link rel="stylesheet" href="/static/stark11/bootstrap-3.3.7/css/bootstrap.css">
+    <style>
+        .list-filter a {
+            display: inline-block;
+            padding: 3px 6px;
+            border: 1px solid #2e6da4;
+            margin: 3px 0;
+        }
+
+        .list-filter a.active {
+            background-color: #2e6da4;
+            color: white;
+        }
+
+        #select {
+            border-radius: 0;
+        }
+
+
+    </style>
 </head>
 <body>
 
 <div class="container">
+    <div>
+        <h4 style="margin-bottom: 20px; float: right;">显示列表</h4>
+    </div>
     {% changelist request %}
-    <h3 style="margin-bottom: 20px">显示列表</h3>
-    <table class="table table-bordered">
-    {% if cl.show_filter_btn %}
-       <div class="input-group col-md-4 pull-right" style="margin-bottom: 10px">
-           <form method="get">
-          <input type="text" class="form-control" name="{{ cl.query_param_key }}" value="{{ cl.filter_btn_val }}" placeholder="Search for...">
-          <span class="input-group-btn">
+
+    <div>
+
+        <!--组合搜索 -->
+        {% if cl.show_comb_filter %}
+            <div class="list-filter">
+                {% for foo in cl.gen_comb_filter %}
+                    <div>
+                        {% for item in foo %}
+                            {{ item }}
+                        {% endfor %}
+                    </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+        <!-- 搜索 -->
+        {% if cl.show_filter_btn %}
+            <form method="get">
+                <div class="input-group col-md-4 pull-right" style="margin-bottom: 10px">
+                    <input type="text" class="form-control" name="{{ cl.query_param_key }}"
+                           value="{{ cl.filter_btn_val }}" placeholder="Search for...">
+                    <span class="input-group-btn">
             <button class="btn btn-success" type="submit">搜索</button>
           </span>
-               </form>
-        </div>
-    {% endif %}
-    {% if cl.show_action_btn %}
-           <div class="input-group col-md-4 pull-right" style="margin-bottom: 10px; margin-right: 10px">
-          <input type="text" class="form-control" placeholder="批量操作">
-          <span class="input-group-btn">
-            <button class="btn btn-success" type="button">批量操作</button>
-          </span>
-        </div>
-    {% endif %}
-        {% if cl.show_add_btn %}
-            <a class="btn btn-primary" style="margin-bottom: 10px" href="{{ add_url }}">添加</a>
+                </div>
+            </form>
         {% endif %}
-        <thead>
-        <tr>
-            {% for foo in cl.head_list %}
-                <th>{{ foo }}</th>
-            {% endfor %}
-        </tr>
-        </thead>
-        <tbody>
-        {% for foo in cl.body_list %}
-            <tr>
-                {% for col in foo %}
-                    <td>{{ col }}</td>
+        <form action="" method="post">
+
+            <table class="table table-bordered">
+                <!-- 批量操作 -->
+
+                {% csrf_token %}
+                {% if cl.show_action_btn %}
+                    <div class="input-group col-md-4 pull-right"
+                         style="margin-bottom: 10px; margin-right: 10px">
+                                                <select id="select" name="list_action" class="form-control"
+                                                        style="border-radius: 0; overflow: hidden; ">
+                                                    <option value="">请选择action</option>
+                                                    {% for item in cl.modify_actions %}
+                                                        <option value="{{ item.name }}">{{ item.text }}</option>
+                                                    {% endfor %}
+                                                </select>
+                        <span class="input-group-btn">
+                                <button class="btn btn-success" type="submit">执行</button>
+                        </span>
+                    </div>
+                {% endif %}
+
+                <!-- 添加按钮 -->
+                {% if cl.show_add_btn %}
+                    <a class="btn btn-primary" style="margin-bottom: 10px" href="{{ cl.add_url }}">添加</a>
+                {% endif %}
+                <thead>
+                <tr>
+                    {% for foo in cl.head_list %}
+                        <th>{{ foo }}</th>
+                    {% endfor %}
+                </tr>
+                </thead>
+                <tbody>
+                {% for foo in cl.body_list %}
+                    <tr>
+                        {% for col in foo %}
+                            <td>{{ col }}</td>
+                        {% endfor %}
+                    </tr>
                 {% endfor %}
-            </tr>
-        {% endfor %}
-        </tbody>
-    </table>
+                </tbody>
+            </table>
+        </form>
+    </div>
     <div aria-label="Page navigation" class="pull-right">
         <ul class="pagination">
             {{ cl.page_obj.page_html|safe }}

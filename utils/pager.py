@@ -40,7 +40,6 @@ class Pagination(object):
 
         # request.GET
         import copy
-        print(params, "=====")
         params = copy.deepcopy(params)
         params._mutable = True
 
@@ -109,7 +108,6 @@ class Pagination(object):
         page_html_list = []
         # 首页
         self.params['page'] = 1
-        print(self.params.urlencode())
         first_page = '<li><a href="%s?%s" aria-label="Previous"><span aria-hidden="true">首页</span></a></li>' \
                      % (self.base_url, self.params.urlencode(),)
         page_html_list.append(first_page)

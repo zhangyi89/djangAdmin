@@ -1,0 +1,138 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>欢迎访问</title>
+
+
+    <link rel="stylesheet" href="{% static 'stark11/bootstrap-3.3.7/css/bootstrap.min.css' %}">
+    <link rel="stylesheet" href="{% static 'stark11/login/signin.css' %}">
+
+
+</head>
+
+<body>
+<nav class="navbar navbar-fixed-top navbar-inverse">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                    aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="https://v3.bootcss.com/examples/offcanvas/#">CRM管理系统</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="https://v3.bootcss.com/examples/offcanvas/#">主页</a></li>
+                <li><a href="https://v3.bootcss.com/examples/offcanvas/#about">关于</a></li>
+                <li><a href="https://v3.bootcss.com/examples/offcanvas/#contact">联系我们</a></li>
+            </ul>
+        </div><!-- /.nav-collapse -->
+    </div><!-- /.container -->
+</nav><!-- /.navbar -->
+
+<div class="container-fluid">
+
+    <div class="col-md-3 col-sm-3 sidebar-offcanvas" id="sidebar">
+        <div class="list-group">
+            <a href="https://v3.bootcss.com/examples/offcanvas/#" class="list-group-item active">public_view.html</a>
+            <a href="https://v3.bootcss.com/examples/offcanvas/#" class="list-group-item">score_list.html</a>
+            <a href="https://v3.bootcss.com/examples/offcanvas/#" class="list-group-item">score_view.html</a>
+            <a href="https://v3.bootcss.com/examples/offcanvas/#" class="list-group-item">single_view.html</a>
+            <a href="https://v3.bootcss.com/examples/offcanvas/#" class="list-group-item">user_view.html</a>
+        </div>
+    </div><!--/.sidebar-offcanvas-->
+    {#    <div class="row row-offcanvas">#}
+
+    <div class="col-md-9 col-sm-9">
+        <p class="pull-right visible-xs">
+            <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
+        </p>
+        <div class="jumbotron">
+            <h3>欢迎访问</h3>
+            <p>这是一个CRM管理系统，可以对您的销售人员，客户信息进行管理！</p>
+        </div>
+        <div class="row">
+            {% for foo in app_list %}
+                 <div class="col-md-3">
+                <h3>{{ foo.app_label }}</h3>
+                <p>{{ foo.name }}{{ foo.object_name }}</p>
+                <p><a class="btn btn-default" href="https://v3.bootcss.com/examples/offcanvas/#" role="button">View
+                    details »</a></p>
+            </div><!--/.col-xs-6.col-lg-4-->
+            {% endfor %}
+
+
+            <div class="col-md-3">
+                <h3>客户表</h3>
+                <p>表的描述</p>
+                <p><a class="btn btn-default" href="https://v3.bootcss.com/examples/offcanvas/#" role="button">View
+                    details »</a></p>
+            </div><!--/.col-xs-6.col-lg-4-->
+            <div class="col-md-3">
+                <h3>班级表</h3>
+                <p>表的描述</p>
+                <p><a class="btn btn-default" href="https://v3.bootcss.com/examples/offcanvas/#" role="button">View
+                    details »</a></p>
+            </div><!--/.col-xs-6.col-lg-4-->
+            <div class="col-md-3">
+                <h3>课程表</h3>
+                <p>表的描述</p>
+                <p><a class="btn btn-default" href="https://v3.bootcss.com/examples/offcanvas/#" role="button">View
+                    details »</a></p>
+            </div><!--/.col-xs-6.col-lg-4-->
+        <div class="col-md-3">
+            <h3>学校表</h3>
+            <p>表的描述</p>
+            <p><a class="btn btn-default" href="https://v3.bootcss.com/examples/offcanvas/#" role="button">View
+                details »</a></p>
+        </div><!--/.col-xs-6.col-lg-4-->   <div class="col-md-3">
+            <h3>学校表</h3>
+            <p>表的描述</p>
+            <p><a class="btn btn-default" href="https://v3.bootcss.com/examples/offcanvas/#" role="button">View
+                details »</a></p>
+        </div><!--/.col-xs-6.col-lg-4-->   <div class="col-md-3">
+            <h3>学校表</h3>
+            <p>表的描述</p>
+            <p><a class="btn btn-default" href="https://v3.bootcss.com/examples/offcanvas/#" role="button">View
+                details »</a></p>
+        </div><!--/.col-xs-6.col-lg-4-->   <div class="col-md-3">
+            <h3>学校表</h3>
+            <p>表的描述</p>
+            <p><a class="btn btn-default" href="https://v3.bootcss.com/examples/offcanvas/#" role="button">View
+                details »</a></p>
+        </div><!--/.col-xs-6.col-lg-4-->
+        </div><!--/.col-xs-6.col-lg-4-->
+    </div><!--/row-->
+</div><!--/.col-xs-12.col-sm-9-->
+
+{#    </div><!--/row-->#}
+
+<hr>
+
+<footer>
+    <p></p>
+</footer>
+
+</div><!--/.container-->
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src=" {% static 'stark11/bootstrap-3.3.7/js/bootstrap.min.js' %}"></script>
+<script src="./Off Canvas Template for Bootstrap_files/offcanvas.js"></script>
+
+</body>
+</html>

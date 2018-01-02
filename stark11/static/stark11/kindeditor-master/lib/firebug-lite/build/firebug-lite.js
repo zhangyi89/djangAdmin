@@ -5347,7 +5347,7 @@ if(!args||!args.length||args.length==0){var msg=[FBL.$STR("Assertion")]
 delete Firebug.errorStackTrace;
 if(FBTrace.DBG_CONSOLE){FBTrace.sysout("logAssert trace from errorStackTrace",trace)
 }}else{if(msg.stack){var trace=parseToStackTrace(msg.stack);
-if(FBTrace.DBG_CONSOLE){FBTrace.sysout("logAssert trace from msg.stack",trace)
+if(FBTrace.DBG_CONSOLE){FBTrace.sysout("logAssert trace from message.stack",trace)
 }}else{var trace=getJSDUserStack();
 if(FBTrace.DBG_CONSOLE){FBTrace.sysout("logAssert trace from getJSDUserStack",trace)
 }}}var errorObject=new FBL.ErrorMessage(msg,(msg.fileName?msg.fileName:win.location),(msg.lineNumber?msg.lineNumber:0),"",category,context,trace);

@@ -1,4 +1,5 @@
 {% load staticfiles %}
+{% load changform %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,7 +11,8 @@
 <body>
 <div class="container">
     <h1>修改页面</h1>
-    {% include 'stark11/form.html' %}
+{#    {% include 'stark11/form.html' %}#}
+    {% form config form %}
 </div>
 </body>
 </html>

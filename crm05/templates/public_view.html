@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="/static/stark11/bootstrap-3.3.7/css/bootstrap.css">
+</head>
+<body>
+<div class="container">
+    <form action="" novalidate style="margin-top: 30px">
+        <table class="table table-bordered">
+            <thead>
+               <tr>
+                <th>ID</th>
+                <th>姓名</th>
+                <th>QQ</th>
+                <th>操作</th>
+            </tr>
+            </thead>
+         <tbody>
+         {% for row in customer_list %}
+             <tr>
+             <td>{{ row.id }}</td>
+             <td>{{ row.name }}</td>
+             <td>{{ row.qq }}</td>
+             <td><a href="/stark11/crm05/customer/{{ row.id }}/competition/">抢单</a></td>
+             </tr>
+         {% endfor %}
+         </tbody>
+        </table>
+    </form>
+</div>
+</body>
+</html>

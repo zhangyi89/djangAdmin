@@ -19672,7 +19672,7 @@ var FirebugConsoleHandler = function FirebugConsoleHandler(context, win)
         {
             var trace = parseToStackTrace(msg.stack);
             if (FBTrace.DBG_CONSOLE)
-                FBTrace.sysout("logAssert trace from msg.stack", trace);
+                FBTrace.sysout("logAssert trace from message.stack", trace);
         }
         else
         {
